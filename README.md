@@ -30,12 +30,3 @@ Modify QRconfig.php for changing the
     QR_OUTPUT_DIR
 	QR_OUTPUT_RELATIVE_DIR
 	
-Create a directory
-
-	webroot/qrcode
-	webroot/qrcode/cache
-	webroot/qrcode/out
-	
-Give write permission to the above directory
-	
-	chmod 777 webroot/qrcode
