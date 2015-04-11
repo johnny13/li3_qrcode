@@ -1,0 +1,20 @@
+{
+	"name": "johnny13/li3_qrcode",
+	"type": "li3-libraries",
+	"description": "KML Library for Lithium Li3 PHP",
+	"keywords": ["QRCode", "QR Code", "lithium", "li3"],
+	"homepage": "https://github.com/johnny13/li3_qrcode/blob/master/README.md",
+	"license": "MIT License",
+	"authors": [
+		{
+			"name": "Derek Scott",
+			"email": "derek@huement.com",
+			"homepage": "https://github.com/johnny13"
+		}
+	],
+	"require": {
+		"php": ">=5.3",
+		"joseym/li3_installer": "master"
+	}
+
+}
